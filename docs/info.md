@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Clock is too fast otherwise it would toggle one segment with the flop.
 
 ## How to test
 
-Explain how to use your project
+Apply power.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Input switches, 7 Segement.
